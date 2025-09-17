@@ -11,8 +11,7 @@ This repository contains an interactive dashboard visualizing real-world salary 
 ## Files
 - Dashboard images 
 - https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs
-- [Power BI file (.pbix) or Python notebook (.ipynb)]
-
+- Tech Talent Salary Insights 2020-2025.pbix
 
 ## Insights
 - 135%+ tech salary growth
