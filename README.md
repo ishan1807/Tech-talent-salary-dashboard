@@ -9,7 +9,7 @@ This repository contains an interactive dashboard visualizing real-world salary 
 - Visualizations built in Power BI / Python
 
 ## Files
-- Dashboard images 
+- Screenshot 2025-09-15 214212.png
 - https://www.kaggle.com/datasets/adilshamim8/salaries-for-data-science-jobs
 - Tech Talent Salary Insights 2020-2025.pbix
 
@@ -18,8 +18,6 @@ This repository contains an interactive dashboard visualizing real-world salary 
 - ~80% jobs now fully remote
 - Data Scientist is the most in-demand and top-paying role
 
-## License
-MIT or specify your own
 
 ## Author
 [Ishan Chauhan] | [https://www.linkedin.com/in/chauhan-ishan/]
